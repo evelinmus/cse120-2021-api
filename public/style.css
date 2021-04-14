@@ -1,0 +1,38 @@
+
+body {background-color: #ffe3ff ;
+  border: 1px solid #ff5eb4;
+  font-family: 'Noto Sans', sans-serif;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  text-align: left;
+  font-size:12px;
+}
+div.item {
+	min-width: 200px;
+	width: 23%;
+	height: 410px;
+	background-color: #fefcff ;
+  border: 1px solid #ff5eb4;
+  float: left;
+	margin: 15px;
+	padding: 15px;
+	position: relative;
+  border-radius: 15px;
+}
+
+
+h1 {
+  font-family: 'Noto Sans', sans-serif;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  text-align: center;
+  font-size:20px;
+  border-radius: 25px;
+  border: 1px solid #ff5eb4;
+  background-color: #fefcff ;
+  padding: 10px; 
+  width: 250px;
+  height: 15px;
+  }
